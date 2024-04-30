@@ -3,7 +3,6 @@
 - 💻 I’m currently learning how to code using the Odin Project.
 - 🎙️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me ... TBD
-- 😄 Pronouns: He
 - ⚡ Fun fact: I am a Ice Hockey Goalie In Florida! 🏒
 
 <!---
